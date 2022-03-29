@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "dependencies": {
+    "@adminjs/express": "^4.1.0",
+    "@adminjs/mongoose": "^2.0.2",
+    "admin-bro": "^4.0.1",
+    "admin-bro-expressjs": "^2.1.1",
+    "adminjs": "^5.7.4",
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "adminjs",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
