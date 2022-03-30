@@ -4,9 +4,8 @@ const options = require('./admin.options');
 const buildAdminRouter = require('./admin.router');
 
 
-const app = express()
-const port = 3000
-
+const app = express();
+const port = 3000;
 
 const run = async ()=> {
   const admin = new AdminBro(options);
